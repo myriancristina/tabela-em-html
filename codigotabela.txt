@@ -1,0 +1,101 @@
+<html>
+
+<title>Tabela HTML</title>
+
+<body bgcolor="FFFFE0">
+
+<font face="times" size="5" color="black"><b><center>- Tabela Salário -</b></font></center>
+
+<HR width="80%" size="4" color="#696969"><br>
+
+<br>
+
+<table border="3" width="60%" align="center" rules="all" bordercolor="#696969">
+
+<th> Cargo</th>
+
+<th colspan="2">Salário Mensal</th>
+
+<tr>
+
+<td> - </td>
+
+<td align="center"><b><i>Menor Salário</td>
+
+<td align="center"><b><i>Maior Salário</td>
+
+</tr>
+
+<tr>
+
+<td>Web Design</td>
+
+<td align="center"><font color="black">R$ 1.300</font></td>
+
+<td align="center"><font color="black">R$ 5.500</font></td>
+
+</tr>
+
+<tr>
+
+<td>Desenvolvedor Web </td>
+
+<td align="center"><font color="black">R$ 1.200</font></td>
+
+<td align="center"><font color="black">R$ 3.500</font></td>
+
+</tr>
+
+<tr>
+
+<td>Web Master </td>
+
+<td align="center"><font color="black">R$ 1.600</font></td>
+
+<td align="center"><font color="black">R$ 6.700</font></td>
+
+</tr>
+
+<tr>
+
+<td>Desenvolvedor de Programas </td>
+
+<td align="center"><font color="black">R$ 1.500</font></td>
+
+<td align="center"><font color="black">R$ 4.000</font></td>
+
+</tr>
+
+<tr>
+
+<td>Manutenção de Computadores </td>
+
+<td align="center"><font color="black">R$ 1.000</font></td>
+
+<td align="center"><font color="black">R$ 2.000</font></td>
+
+</tr>
+
+</table>
+
+<br>
+
+<br>
+
+<HR width="80%" size="4" color="#696969">
+
+​    
+
+​      <p align="center", style="color: black"> Desenvolvido por: Myrian Cristina Silva
+
+​      <p align="center", style="color: black"> E-mail:  myriancristinasilva@hotmail.com</p>
+
+​      <center><i class="fas fa-envelope-square"></i></center>
+
+   
+
+​      <script src="https://kit.fontawesome.com/d5bd3b36ee.js"></script>
+
+</body>
+
+</html>

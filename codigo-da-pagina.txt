@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="UTF-8">
+        <body bgcolor="BDBDBD">
+        <title>Imagem na Página</title>
+    </head>
+        <hr align="center" width= "45%" size="3" color="585858">  
+        <center><h1>CODE HTML</h1>
+        <hr align="center" width= "45%" size="3" color="585858">
+
+        <img src="img/code-html.jpg"
+        width="350px" height="250px"></center>
+        
+       <p><center><span><b>HTML</b> é uma das linguagens que utilizamos para desenvolver websites.
+        <br>O acrônimo <b>HTML</b> vem do inglês e significa Hypertext Markup Language ou 
+        <br>em português Linguagem de Marcação de Hipertexto. O <b>HTML</b> é a liguagem base da internet.</span></center>
+        <p>
+                <hr align="center" width= "45%" size="3" color="585858">
+
+        <p align="center", style="color: black"> Desenvolvido por: Myrian Cristina Silva
+        <p align="center", style="color: black"> E-mail:  myriancristinasilva@hotmail.com</p>
+        <center><i class="fas fa-envelope-square"></i></center>
+      
+         <script src="https://kit.fontawesome.com/d5bd3b36ee.js"></script>
+      
+    </body>
+</html>
